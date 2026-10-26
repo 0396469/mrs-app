@@ -1,0 +1,38 @@
+{
+    "alice": {
+        "history": [
+            "Inception",
+            "The Matrix",
+            "Toy Story",
+            "The Dark Knight"
+        ],
+        "ratings": {
+            "Inception": 5,
+            "The Matrix": 4,
+            "Toy Story": 5,
+            "The Dark Knight": 5
+        },
+        "preferences": [
+            "Sci-Fi",
+            "Action",
+            "Animation"
+        ]
+    },
+    "bob": {
+        "history": [
+            "Toy Story",
+            "Breaking Bad",
+            "Squid Games"
+        ],
+        "ratings": {
+            "Toy Story": 5,
+            "Breaking Bad": 4,
+            "Squid Games": 4
+        },
+        "preferences": [
+            "Animation",
+            "Crime Drama",
+            "Thriller"
+        ]
+    }
+}
